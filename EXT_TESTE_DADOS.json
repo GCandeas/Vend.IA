@@ -1,0 +1,1750 @@
+[{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "jeep",
+        "sigla_montadora": "JP"
+      },
+      "id_conjunto": 204,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "sensor",
+        "id_caracteristica": 106
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 465,
+    "dat_compra": "2023-07-31T13:21:34.708348",
+    "dat_venda": "2024-04-30T18:36:05.455626",
+    "dias_estoque": 274,
+    "busca_web": [
+      "parabrisa",
+      "sensor",
+      "compass",
+      2021,
+      "agc"
+    ]
+  },
+  "output": 1250
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 229,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "pastilha",
+        "id_caracteristica": 165
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 346,
+    "dat_compra": "2024-02-19T12:58:36.409921",
+    "dat_venda": "2024-03-25T14:01:14.971856",
+    "dias_estoque": 35,
+    "busca_web": [
+      "parabrisa",
+      "pastilha",
+      "cobalt",
+      2014,
+      "agc"
+    ]
+  },
+  "output": 650
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 348,
+    "dat_compra": "2023-12-07T13:58:11.709421",
+    "dat_venda": "2024-03-04T15:19:54.784863",
+    "dias_estoque": 88,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "ka",
+      2018,
+      "pilkington"
+    ]
+  },
+  "output": 640
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 226,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde sensor",
+        "id_caracteristica": 111
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 665,
+    "dat_compra": "2023-10-30T10:40:23.958329",
+    "dat_venda": "2024-02-26T12:20:41.296445",
+    "dias_estoque": 119,
+    "busca_web": [
+      "parabrisa",
+      "verde sensor",
+      "golf",
+      2018,
+      "pilkington"
+    ]
+  },
+  "output": 1150
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "renault",
+        "sigla_montadora": "RN"
+      },
+      "id_conjunto": 204,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 580,
+    "dat_compra": "2024-02-02T11:58:54.548086",
+    "dat_venda": "2024-02-15T15:58:32.270659",
+    "dias_estoque": 13,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "captur",
+      2020,
+      "agc"
+    ]
+  },
+  "output": 890
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "fiat",
+        "sigla_montadora": "FT"
+      },
+      "id_conjunto": 102,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 370,
+    "dat_compra": "2024-01-16T11:55:30.653796",
+    "dat_venda": "2024-02-14T14:36:51.444795",
+    "dias_estoque": 29,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "palio novo",
+      2016,
+      "pilkington"
+    ]
+  },
+  "output": 640
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "toyota",
+        "sigla_montadora": "TO"
+      },
+      "id_conjunto": 206,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade antena",
+        "id_caracteristica": 102
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 442,
+    "dat_compra": "2023-11-27T13:46:51.389065",
+    "dat_venda": "2024-02-14T12:53:30.673846",
+    "dias_estoque": 79,
+    "busca_web": [
+      "parabrisa",
+      "degrade antena",
+      "corolla antena",
+      2018,
+      "agc"
+    ]
+  },
+  "output": 950
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 223,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 505,
+    "dat_compra": "2023-09-21T16:39:34.652279",
+    "dat_venda": "2024-02-07T19:05:15.529000",
+    "dias_estoque": 139,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "cargo novo",
+      2016,
+      "pilkington"
+    ]
+  },
+  "output": 1000
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 201,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 270,
+    "dat_compra": "2023-07-20T11:29:31.203928",
+    "dat_venda": "2024-01-24T16:44:30.969426",
+    "dias_estoque": 188,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "corsa i antena 2p",
+      1997,
+      "pilkington"
+    ]
+  },
+  "output": 640
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "renault",
+        "sigla_montadora": "RN"
+      },
+      "id_conjunto": 218,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde sensor",
+        "id_caracteristica": 111
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 460,
+    "dat_compra": "2023-10-11T11:55:41.214251",
+    "dat_venda": "2024-01-10T20:34:46.829804",
+    "dias_estoque": 91,
+    "busca_web": [
+      "parabrisa",
+      "verde sensor",
+      "captur",
+      2019,
+      "agc"
+    ]
+  },
+  "output": 1100
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "hiunday",
+        "sigla_montadora": "HY"
+      },
+      "id_conjunto": 212,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade acústico",
+        "id_caracteristica": 113
+      }
+    },
+    "fabricante": {
+      "fabricante": "fuyao",
+      "sigla_fabricante": "FY"
+    },
+    "val_compra": 590,
+    "dat_compra": "2022-08-19T17:48:07.300813",
+    "dat_venda": "2024-01-02T14:06:08.025841",
+    "dias_estoque": 501,
+    "busca_web": [
+      "parabrisa",
+      "degrade acústico",
+      "new tucson",
+      2019,
+      "fuyao"
+    ]
+  },
+  "output": 840
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "mercedes benz",
+        "sigla_montadora": "MC"
+      },
+      "id_conjunto": 211,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade sensor",
+        "id_caracteristica": 103
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 675,
+    "dat_compra": "2023-10-31T17:21:03.888836",
+    "dat_venda": "2023-12-11T11:14:23.335754",
+    "dias_estoque": 41,
+    "busca_web": [
+      "parabrisa",
+      "degrade sensor",
+      "sprinter nova",
+      2020,
+      "pilkington"
+    ]
+  },
+  "output": 1200
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "hiunday",
+        "sigla_montadora": "HY"
+      },
+      "id_conjunto": 203,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade sensor",
+        "id_caracteristica": 103
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 395,
+    "dat_compra": "2023-08-29T11:13:14.430959",
+    "dat_venda": "2023-12-08T15:38:43.374686",
+    "dias_estoque": 101,
+    "busca_web": [
+      "parabrisa",
+      "degrade sensor",
+      "i30",
+      2009,
+      "pilkington"
+    ]
+  },
+  "output": 890
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 220,
+      "tipo": {
+        "tipo": "vigia",
+        "sigla_tipo": "VG"
+      },
+      "caracteristica": {
+        "caracteristica": "termico furo",
+        "id_caracteristica": 125
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 470,
+    "dat_compra": "2023-08-10T16:35:45.040278",
+    "dat_venda": "2023-12-06T13:00:49.911734",
+    "dias_estoque": 118,
+    "busca_web": [
+      "vigia",
+      "termico furo",
+      "spacefox",
+      2013,
+      "pilkington"
+    ]
+  },
+  "output": 770
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 298,
+    "dat_compra": "2023-03-08T13:05:27.812634",
+    "dat_venda": "2023-11-25T15:22:19.510731",
+    "dias_estoque": 262,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "ka sedan",
+      2018,
+      "agc"
+    ]
+  },
+  "output": 630
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "fiat",
+        "sigla_montadora": "FT"
+      },
+      "id_conjunto": 210,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 265,
+    "dat_compra": "2023-09-09T10:55:17.208804",
+    "dat_venda": "2023-10-31T16:54:04.440215",
+    "dias_estoque": 52,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "fastback",
+      2022,
+      "agc"
+    ]
+  },
+  "output": 740
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "toyota",
+        "sigla_montadora": "TO"
+      },
+      "id_conjunto": 222,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "saida de faixa",
+        "id_caracteristica": 123
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 572,
+    "dat_compra": "2023-09-28T12:49:49.250197",
+    "dat_venda": "2023-10-19T14:53:25.994031",
+    "dias_estoque": 21,
+    "busca_web": [
+      "parabrisa",
+      "saida de faixa",
+      "corolla cross",
+      2021,
+      "agc"
+    ]
+  },
+  "output": 1250
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "renault",
+        "sigla_montadora": "RN"
+      },
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "id_conjunto": 101,
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 310,
+    "dat_compra": "2022-12-06T12:33:25.975409",
+    "dat_venda": "2023-10-03T19:44:23.287093",
+    "dias_estoque": 301,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "sandero",
+      2018,
+      "saint-gobain"
+    ]
+  },
+  "output": 590
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 252,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "sensor",
+        "id_caracteristica": 106
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 675,
+    "dat_compra": "2023-07-03T11:21:21.113607",
+    "dat_venda": "2023-09-29T10:58:56.841206",
+    "dias_estoque": 88,
+    "busca_web": [
+      "parabrisa",
+      "sensor",
+      "audi a3 sedan",
+      2017,
+      "pilkington"
+    ]
+  },
+  "output": 1550
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "peugeot",
+        "sigla_montadora": "PG"
+      },
+      "id_conjunto": 202,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 595,
+    "dat_compra": "2023-07-18T16:31:35.562901",
+    "dat_venda": "2023-09-16T12:33:56.713335",
+    "dias_estoque": 60,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "307 perua",
+      2007,
+      "saint-gobain"
+    ]
+  },
+  "output": 1150
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 298,
+    "dat_compra": "2023-03-08T13:05:27.812634",
+    "dat_venda": "2023-09-12T19:32:35.218934",
+    "dias_estoque": 188,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "ka sedan",
+      2018,
+      "agc"
+    ]
+  },
+  "output": 570
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 225,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "fuyao",
+      "sigla_fabricante": "FY"
+    },
+    "val_compra": 307,
+    "dat_compra": "2022-10-26T19:27:37.125130",
+    "dat_venda": "2023-08-14T12:49:38.796819",
+    "dias_estoque": 292,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "equinox",
+      2018,
+      "fuyao"
+    ]
+  },
+  "output": 990
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 254,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "sensor",
+        "id_caracteristica": 106
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 775,
+    "dat_compra": "2023-06-26T11:35:50.660854",
+    "dat_venda": "2023-08-09T11:40:53.932457",
+    "dias_estoque": 44,
+    "busca_web": [
+      "parabrisa",
+      "sensor",
+      "audi q3",
+      2015,
+      "agc"
+    ]
+  },
+  "output": 1500
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 205,
+      "tipo": {
+        "tipo": "vp traseiro direito",
+        "sigla_tipo": "TD"
+      },
+      "caracteristica": {
+        "caracteristica": "comum",
+        "id_caracteristica": 100
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 140,
+    "dat_compra": "2022-04-20T13:32:05.520539",
+    "dat_venda": "2023-07-31T20:07:04.447428",
+    "dias_estoque": 467,
+    "busca_web": [
+      "vp traseiro direito",
+      "comum",
+      "polo",
+      2019,
+      "pilkington"
+    ]
+  },
+  "output": 410
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "citroen",
+        "sigla_montadora": "CT"
+      },
+      "id_conjunto": 203,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 350,
+    "dat_compra": "2023-03-14T13:09:03.530309",
+    "dat_venda": "2023-07-27T10:51:05.141313",
+    "dias_estoque": 135,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "c3",
+      2007,
+      "pilkington"
+    ]
+  },
+  "output": 620
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "mercedes benz",
+        "sigla_montadora": "MC"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 432,
+    "dat_compra": "2022-05-09T16:38:58.436025",
+    "dat_venda": "2023-07-25T14:31:30.313075",
+    "dias_estoque": 442,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "accelo",
+      2012,
+      "pilkington"
+    ]
+  },
+  "output": 950
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "honda",
+        "sigla_montadora": "HD"
+      },
+      "id_conjunto": 208,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 475,
+    "dat_compra": "2023-05-24T13:02:00.349795",
+    "dat_venda": "2023-07-21T17:21:33.344129",
+    "dias_estoque": 58,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "fit",
+      2011,
+      "saint-gobain"
+    ]
+  },
+  "output": 700
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "jeep",
+        "sigla_montadora": "JP"
+      },
+      "id_conjunto": 204,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "sensor saida de faixa",
+        "id_caracteristica": 109
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 500,
+    "dat_compra": "2022-02-09T13:16:47.842112",
+    "dat_venda": "2023-07-17T12:47:45.855355",
+    "dias_estoque": 523,
+    "busca_web": [
+      "parabrisa",
+      "sensor saida de faixa",
+      "compass",
+      2021,
+      "saint-gobain"
+    ]
+  },
+  "output": 1150
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "scania",
+        "sigla_montadora": "SN"
+      },
+      "id_conjunto": 203,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 980,
+    "dat_compra": "2023-05-17T11:21:28.012399",
+    "dat_venda": "2023-07-14T17:35:13.987814",
+    "dias_estoque": 58,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "serie 6",
+      2019,
+      "saint-gobain"
+    ]
+  },
+  "output": 1200
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "jeep",
+        "sigla_montadora": "JP"
+      },
+      "id_conjunto": 201,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde acústicor",
+        "id_caracteristica": 115
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 420,
+    "dat_compra": "2023-04-03T12:22:26.853165",
+    "dat_venda": "2023-07-14T11:55:13.685308",
+    "dias_estoque": 102,
+    "busca_web": [
+      "parabrisa",
+      "verde acústicor",
+      "renegade",
+      2019,
+      "agc"
+    ]
+  },
+  "output": 730
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "toyota",
+        "sigla_montadora": "TO"
+      },
+      "id_conjunto": 210,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade antena",
+        "id_caracteristica": 102
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 376,
+    "dat_compra": "2022-07-15T13:23:39.006400",
+    "dat_venda": "2023-07-10T11:50:38.679331",
+    "dias_estoque": 360,
+    "busca_web": [
+      "parabrisa",
+      "degrade antena",
+      "hilux sw4",
+      2012,
+      "pilkington"
+    ]
+  },
+  "output": 670
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 229,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 378,
+    "dat_compra": "2023-02-14T11:35:53.129766",
+    "dat_venda": "2023-07-06T17:04:45.326104",
+    "dias_estoque": 142,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "virtus",
+      2019,
+      "pilkington"
+    ]
+  },
+  "output": 670
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "fiat",
+        "sigla_montadora": "FT"
+      },
+      "id_conjunto": 201,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 335,
+    "dat_compra": "2023-06-26T11:35:50.693447",
+    "dat_venda": "2023-07-04T11:48:26.091675",
+    "dias_estoque": 8,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "mobi",
+      2019,
+      "agc"
+    ]
+  },
+  "output": 675
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "renault",
+        "sigla_montadora": "RN"
+      },
+      "id_conjunto": 216,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 475,
+    "dat_compra": "2023-06-17T12:09:31.488465",
+    "dat_venda": "2023-07-01T10:41:17.358747",
+    "dias_estoque": 14,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "master",
+      2017,
+      "pilkington"
+    ]
+  },
+  "output": 890
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "mercedes benz",
+        "sigla_montadora": "MC"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 432,
+    "dat_compra": "2022-05-09T16:38:58.436025",
+    "dat_venda": "2023-06-28T11:07:03.356016",
+    "dias_estoque": 415,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "accelo",
+      2012,
+      "pilkington"
+    ]
+  },
+  "output": 900
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 227,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "sensor saida de faixa",
+        "id_caracteristica": 109
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 390,
+    "dat_compra": "2023-02-15T13:08:04.759349",
+    "dat_venda": "2023-06-21T11:08:52.190415",
+    "dias_estoque": 126,
+    "busca_web": [
+      "parabrisa",
+      "sensor saida de faixa",
+      "s10 simples",
+      2017,
+      "agc"
+    ]
+  },
+  "output": 800
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "peugeot",
+        "sigla_montadora": "PG"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 440,
+    "dat_compra": "2022-12-13T13:08:34.879897",
+    "dat_venda": "2023-06-16T16:58:56.635895",
+    "dias_estoque": 185,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "208",
+      2020,
+      "saint-gobain"
+    ]
+  },
+  "output": 990
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 348,
+    "dat_compra": "2023-03-01T11:33:07.413528",
+    "dat_venda": "2023-06-14T11:32:04.473843",
+    "dias_estoque": 105,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "ka sedan",
+      2018,
+      "saint-gobain"
+    ]
+  },
+  "output": 680
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 225,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde sensor",
+        "id_caracteristica": 111
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 595,
+    "dat_compra": "2023-03-21T12:10:31.655000",
+    "dat_venda": "2023-06-06T15:26:38.224297",
+    "dias_estoque": 77,
+    "busca_web": [
+      "parabrisa",
+      "verde sensor",
+      "golf variant",
+      2014,
+      "pilkington"
+    ]
+  },
+  "output": 1890
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 235,
+      "tipo": {
+        "tipo": "vigia",
+        "sigla_tipo": "VG"
+      },
+      "caracteristica": {
+        "caracteristica": "termico furo",
+        "id_caracteristica": 125
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 340,
+    "dat_compra": "2023-02-01T12:54:20.824099",
+    "dat_venda": "2023-06-02T15:38:46.593713",
+    "dias_estoque": 121,
+    "busca_web": [
+      "vigia",
+      "termico furo",
+      "spin",
+      2014,
+      "agc"
+    ]
+  },
+  "output": 750
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "renault",
+        "sigla_montadora": "RN"
+      },
+      "id_conjunto": 202,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 380,
+    "dat_compra": "2022-12-27T16:17:16.951839",
+    "dat_venda": "2023-05-30T16:50:17.731537",
+    "dias_estoque": 154,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "scenic",
+      2004,
+      "saint-gobain"
+    ]
+  },
+  "output": 850
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 205,
+      "tipo": {
+        "tipo": "capota maritima",
+        "sigla_tipo": "CM"
+      },
+      "caracteristica": {
+        "caracteristica": "liso",
+        "id_caracteristica": 126
+      }
+    },
+    "fabricante": {
+      "fabricante": "flash cover",
+      "sigla_fabricante": "FC"
+    },
+    "val_compra": 570,
+    "dat_compra": "2023-02-18T11:27:31.771168",
+    "dat_venda": "2023-05-30T16:35:09.508354",
+    "dias_estoque": 101,
+    "busca_web": [
+      "capota maritima",
+      "liso",
+      "amarok simples",
+      2015,
+      "flash cover"
+    ]
+  },
+  "output": 890
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 298,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 285,
+    "dat_compra": "2023-04-25T12:01:30.875028",
+    "dat_venda": "2023-05-25T16:33:13.159603",
+    "dias_estoque": 30,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "spacefox",
+      2013,
+      "pilkington"
+    ]
+  },
+  "output": 595
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "honda",
+        "sigla_montadora": "HD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "degrade",
+        "id_caracteristica": 101
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 360,
+    "dat_compra": "2023-01-24T13:31:32.821347",
+    "dat_venda": "2023-05-24T18:47:50.000553",
+    "dias_estoque": 120,
+    "busca_web": [
+      "parabrisa",
+      "degrade",
+      "fit",
+      2005,
+      "pilkington"
+    ]
+  },
+  "output": 725
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "ford",
+        "sigla_montadora": "FD"
+      },
+      "id_conjunto": 207,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 298,
+    "dat_compra": "2022-11-10T11:50:11.718273",
+    "dat_venda": "2023-04-28T11:01:26.955224",
+    "dias_estoque": 169,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "ka",
+      2018,
+      "pilkington"
+    ]
+  },
+  "output": 550
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 209,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde sem pastilha",
+        "id_caracteristica": 185
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 490,
+    "dat_compra": "2023-01-11T15:30:41.813749",
+    "dat_venda": "2023-04-27T14:30:18.256160",
+    "dias_estoque": 106,
+    "busca_web": [
+      "parabrisa",
+      "verde sem pastilha",
+      "delivery",
+      2020,
+      "pilkington"
+    ]
+  },
+  "output": 990
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "nissan",
+        "sigla_montadora": "NS"
+      },
+      "id_conjunto": 201,
+      "tipo": {
+        "tipo": "vp dianteiro esquerdo",
+        "sigla_tipo": "DE"
+      },
+      "caracteristica": {
+        "caracteristica": "comum",
+        "id_caracteristica": 100
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 150,
+    "dat_compra": "2022-06-01T13:30:30.592905",
+    "dat_venda": "2023-04-26T11:54:32.428623",
+    "dias_estoque": 329,
+    "busca_web": [
+      "vp dianteiro esquerdo",
+      "comum",
+      "kicks",
+      2018,
+      "agc"
+    ]
+  },
+  "output": 380
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "chevrolet",
+        "sigla_montadora": "GM"
+      },
+      "id_conjunto": 225,
+      "tipo": {
+        "tipo": "vigia",
+        "sigla_tipo": "VG"
+      },
+      "caracteristica": {
+        "caracteristica": "termico",
+        "id_caracteristica": 124
+      }
+    },
+    "fabricante": {
+      "fabricante": "pilkington",
+      "sigla_fabricante": "PK"
+    },
+    "val_compra": 225,
+    "dat_compra": "2023-03-30T12:15:12.510408",
+    "dat_venda": "2023-04-20T13:29:07.128963",
+    "dias_estoque": 21,
+    "busca_web": [
+      "vigia",
+      "termico",
+      "corsa antena classic",
+      2003,
+      "pilkington"
+    ]
+  },
+  "output": 480
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "honda",
+        "sigla_montadora": "HD"
+      },
+      "id_conjunto": 208,
+      "tipo": {
+        "tipo": "vigia",
+        "sigla_tipo": "VG"
+      },
+      "caracteristica": {
+        "caracteristica": "termico",
+        "id_caracteristica": 124
+      }
+    },
+    "fabricante": {
+      "fabricante": "saint-gobain",
+      "sigla_fabricante": "SG"
+    },
+    "val_compra": 275,
+    "dat_compra": "2022-12-13T13:08:34.860973",
+    "dat_venda": "2023-04-18T18:27:36.574613",
+    "dias_estoque": 126,
+    "busca_web": [
+      "vigia",
+      "termico",
+      "fit",
+      2005,
+      "saint-gobain"
+    ]
+  },
+  "output": 620
+},
+{
+  "input": {
+    "cod_produto": {
+      "montadora": {
+        "montadora": "volkswagen",
+        "sigla_montadora": "VK"
+      },
+      "id_conjunto": 298,
+      "tipo": {
+        "tipo": "parabrisa",
+        "sigla_tipo": "PB"
+      },
+      "caracteristica": {
+        "caracteristica": "verde",
+        "id_caracteristica": 110
+      }
+    },
+    "fabricante": {
+      "fabricante": "agc",
+      "sigla_fabricante": "AG"
+    },
+    "val_compra": 248,
+    "dat_compra": "2023-02-01T13:41:40.362995",
+    "dat_venda": "2023-04-18T12:53:45.422905",
+    "dias_estoque": 76,
+    "busca_web": [
+      "parabrisa",
+      "verde",
+      "fox 4p",
+      2014,
+      "agc"
+    ]
+  },
+  "output": 490
+}]
